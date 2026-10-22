@@ -14,9 +14,18 @@ Demo account (regular user, no admin rights):
 - Password: `122112`
 
 ## Screenshots
+### Home
+![Home Screen](Screenshots/Home%20Screen.png)
 
-<!-- Add your screenshots to a /screenshots folder, then uncomment and edit: -->
-<!-- ![Home page](screenshots/home.png) -->
+### Favorites map
+![Favorites Map](Screenshots/Favorites%20Map.png)
+
+### Quizzes
+![Quiz Page](Screenshots/Quiz%20Page.png)
+![Capital City Quiz](Screenshots/Capital%20City%20Quiz.png)
+
+### Pubs map
+![Pubs Map](Screenshots/Pubs%20Map.png)
 
 ## Features
 

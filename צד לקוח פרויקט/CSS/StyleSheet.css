@@ -830,3 +830,7 @@ body.admin-page-bg {
         font-size: 2rem;
     }
 }
+
+.dark-tiles {
+    filter: invert(1) hue-rotate(180deg) brightness(0.9) contrast(0.9);
+}
